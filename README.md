@@ -1,4 +1,4 @@
-This is a test on how to integrade sass-loader in a webpack-based React project
+This is a test on how to integrate sass-loader in a webpack-based React project
 
 I followed the steps here:
 
