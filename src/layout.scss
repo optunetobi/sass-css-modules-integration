@@ -1,0 +1,13 @@
+.row {
+  position: relative;
+}
+
+.column {
+  &.thrid {
+    width: 33.33%;
+  }
+
+  &.half {
+    width: 50%;
+  }
+}
